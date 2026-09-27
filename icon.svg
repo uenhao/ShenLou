@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5aa7ff"/>
+      <stop offset="1" stop-color="#2b4fd0"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="13" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.5"/>
+  <!-- 层叠楼阁 -->
+  <path fill="#ffffff" d="M 20 40 L 20 24 L 26 24 L 26 18 L 32 18 L 32 13 L 38 13 L 38 18 L 44 18 L 44 40 Z"/>
+  <rect x="28.5" y="22" width="3.4" height="4" fill="#2b4fd0"/>
+  <rect x="34.5" y="27" width="3.4" height="4" fill="#2b4fd0"/>
+  <rect x="28.5" y="32" width="3.4" height="4" fill="#2b4fd0"/>
+  <!-- 海面波光 -->
+  <path d="M 10 47 Q 16 44 22 47 T 34 47 T 46 47 T 58 47" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 10 53 Q 16 50 22 53 T 34 53 T 46 53 T 58 53" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

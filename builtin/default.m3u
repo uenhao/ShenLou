@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/main/8Khd.png",CCTV-8K
+http://192.151.150.154/live/cctv8k.m3u8

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "ShenLou",
+  "outputfilename": "ShenLou",
+  "frontend:install": "",
+  "frontend:build": "",
+  "author": {
+    "name": "mahao"
+  }
+}
